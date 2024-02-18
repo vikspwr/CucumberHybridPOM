@@ -5,7 +5,7 @@ Feature: Login Page Features
   @smoke
   Scenario: Verify Login Page Title
     Given User on login page
-    Then Page title should be "Login - My Shop1"
+    Then Page title should be "Login - My Shop"
 	
 	@smoke
   Scenario: Verify Presence Of Forgot Password Link
