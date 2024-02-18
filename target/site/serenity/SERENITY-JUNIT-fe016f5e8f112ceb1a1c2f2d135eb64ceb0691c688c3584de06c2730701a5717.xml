@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="My Account Page Features" skipped="0" tests="3" time="20.37" timestamp="2024-02-18 02:45:39"><testcase name="Verify My Accounts Page Title"/><testcase name="Verify My Accounts Page section contains links"/><testcase name="Verify Sign Out Functionality"/></testsuite>

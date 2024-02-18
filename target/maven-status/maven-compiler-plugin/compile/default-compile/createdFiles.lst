@@ -1,0 +1,5 @@
+com\pages\LoginPage.class
+com\utils\PropertiesReader.class
+com\factory\DriverFactory.class
+com\pages\MyAccountPage.class
+com\utils\TestUtils.class

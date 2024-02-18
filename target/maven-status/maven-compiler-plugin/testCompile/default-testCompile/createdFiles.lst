@@ -1,0 +1,5 @@
+com\executor\MyRunnerTest.class
+com\hooks\AppHooks.class
+com\stepdefs\MyAccountSteps.class
+com\stepdefs\LoginPageSteps.class
+com\executor\MySerenityRunnerTest.class
